@@ -24,6 +24,7 @@ Parser and Parse Tree:
 The parser is a crucial component that converts each statement in an E++ program into a unique parse tree.
 This tree structure captures the program's organization, facilitating syntactic checks and ensuring adherence to the language's rules.
 The parse tree's uniqueness is guaranteed by specific conditions, which dictate the hierarchical arrangement of nodes, providing a foundation for correct expression evaluation.
+![image](https://github.com/user-attachments/assets/a7d3081b-5c50-4124-839e-5ea1d0850f6e)
 
 AVL Trees:
 Assignment 4 harnesses the power of AVL trees to implement an efficient expression evaluator.
